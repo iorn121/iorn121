@@ -9,3 +9,10 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=iorn121&left_color=gray&right_color=blue)
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iorn121&theme=vue)
+
+プログラミングコーチ@大阪
+
+作ったプロダクト
+・[ポートフォリオサイト](https://iorn121.github.io/)
+Vueの練習で制作
+デザイン重視
