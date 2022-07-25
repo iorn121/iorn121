@@ -20,6 +20,21 @@
 - Rust
 - C++
 
+**Currently under development**
+- Self-improvement web application by Rust
+- "Jellybean", Original web application framework by Python
+- "MyDeZero", Deep Learning Framework by Python
+- "Jellyfish burst World", VRC world full with jellyfish by Unity
+- "Renga", Web application to compose Tanka poems together by communicating with others via Websocket by Rust
+- Web application to show what day it is by "Jellybean" and React, TypeScript
+- Photogrammetry software by AzureKinect and Python
+
+**What I'm studying now**
+- GNN(JupiterNotebook)
+- Image Processing(Udemy, 100knock)
+- React Tuorial(Udemy)
+- Athletic Programming(AtCoder)
+
 # Stats
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iorn121&layout=compact&show_icons=true&theme=vue" />
