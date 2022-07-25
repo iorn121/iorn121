@@ -23,11 +23,12 @@
 **Currently under development**
 - Self-improvement web application by Rust
 - "Jellybean", Original web application framework by Python
-- "MyDeZero", Deep Learning Framework by Python
+- [MyDeZero](https://github.com/iorn121/MyDeZero), Deep Learning Framework by Python
 - "Jellyfish burst World", VRC world full with jellyfish by Unity
 - "Renga", Web application to compose Tanka poems together by communicating with others via Websocket by Rust
 - Web application to show what day it is by "Jellybean" and React, TypeScript
 - Photogrammetry software by AzureKinect and Python
+- Web application to quantify the beauty of a photograph
 
 **What I'm studying now**
 - GNN(JupiterNotebook)
