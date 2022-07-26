@@ -19,6 +19,7 @@
 - C#
 - Rust
 - C++
+- Scala
 
 **Currently under development**
 - Self-improvement web application by Rust
@@ -35,6 +36,7 @@
 - Image Processing(Udemy, 100knock)
 - React Tuorial(Udemy)
 - Athletic Programming(AtCoder)
+- Scala(N education)
 
 # Stats
 <p align="left"> 
