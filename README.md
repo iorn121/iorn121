@@ -33,9 +33,9 @@
 
 **What I'm studying now**
 - GNN(JupiterNotebook)
-- Image Processing(Udemy, 100knock)
-- React Tuorial(Udemy)
-- Athletic Programming(AtCoder)
+- [Image Processing](https://github.com/iorn121/ImageProcessing100Questions)
+- [React Tuorial](https://www.udemy.com/course/react_stepup/learn/lecture/24823314#content)
+- [Athletic Programming](https://github.com/iorn121/AtCoder)
 - Scala(N education)
 
 # Stats
