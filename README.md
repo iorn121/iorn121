@@ -22,7 +22,8 @@
 - Scala
 
 **Currently under development**
-- [GreenThumb](https://github.com/iorn121/GreenThumb), Self-improvement web application by Rust
+- [GreenThumb](https://github.com/iorn121/GreenThumb), Self-improvement web application frontend by React
+- [GreenThumbAPI](https://github.com/iorn121/GreenThumbAPI), backend by Rust
 - [Jellybean](https://github.com/iorn121/jellybeans), Original web application framework by Python
 - [MyDeZero](https://github.com/iorn121/MyDeZero), Deep Learning Framework by Python
 - "Jellyfish burst World", VRC world full with jellyfish by Unity
@@ -33,10 +34,13 @@
 
 **What I'm studying now**
 - GNN(JupiterNotebook)
+- [Vulkan](https://github.com/iorn121/VulkanTutorial)
 - [Image Processing](https://github.com/iorn121/ImageProcessing100Questions)
 - [React Tuorial](https://www.udemy.com/course/react_stepup/learn/lecture/24823314#content)
 - [Athletic Programming](https://github.com/iorn121/AtCoder)
 - Scala(N education)
+- [AzureKinect](https://github.com/iorn121/AzureKinectPython)
+- [PythonLibraryTest](https://github.com/iorn121/PythonLibTest)
 
 # Stats
 <p align="left"> 
