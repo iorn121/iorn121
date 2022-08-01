@@ -42,7 +42,7 @@
 - [AzureKinect](https://github.com/iorn121/AzureKinectPython)
 - [PythonLibraryTest](https://github.com/iorn121/PythonLibTest)
 
-**Hoby Work**
+**Hobby Work**
 - [Portfolio Page](https://iorn121.github.io/)
   - [Repository](https://github.com/iorn121/iorn121.github.io)
   - My original portfolio page by Vue (for exercise)
