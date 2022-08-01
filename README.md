@@ -42,6 +42,30 @@
 - [AzureKinect](https://github.com/iorn121/AzureKinectPython)
 - [PythonLibraryTest](https://github.com/iorn121/PythonLibTest)
 
+**Hoby Work**
+- [Portfolio Page](https://iorn121.github.io/)
+  - [Repository](https://github.com/iorn121/iorn121.github.io)
+  - My original portfolio page by Vue (for exercise)
+  - I haven't been able to update it recently.
+
+- [Queued Task Management Web Application](https://tasque.herokuapp.com/)
+  - [Repository](https://github.com/iorn121/Tasque)
+  - I developed it to practice Django.
+  - It implements task prioritization and user authentication.
+
+- [Chord Progression Web Application](https://iorn121.github.io/ChordProgressor/)
+  - [Frontend Repository](https://github.com/iorn121/ChordProgressor)
+  - [Backend Repository](https://github.com/iorn121/ChordProgressor-API)
+  - I developed them to practice RESTful API by Django and React.
+  - This helps to check the chord progression when composing.
+  
+- [Weather and discomfort index Web Application](https://symphonious-hotteok-b485d8.netlify.app/)
+  - [Repository](https://github.com/iorn121/weather-app)
+  -  Through the development of this application, I became familiar with TypeScript.
+  
+- [Reverce Polish Notation CLI](https://github.com/iorn121/rust_RPN_cli)
+  - My first development of Rust.
+
 # Stats
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iorn121&layout=compact&show_icons=true&theme=vue" />
@@ -55,18 +79,3 @@
 
 
 
-作ったプロダクト
-
-・[ポートフォリオサイト](https://iorn121.github.io/)
-
-Vueの練習で制作
-
-デザイン重視
-
-・[キュー型タスク管理アプリ](https://tasque.herokuapp.com/)
-
-djangoの練習で制作
-
-ユーザーログイン認証とタグ機能の実装
-
-・[和音進行テストアプリ]
