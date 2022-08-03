@@ -38,7 +38,7 @@
 - [Image Processing](https://github.com/iorn121/ImageProcessing100Questions)
 - [React Tuorial](https://www.udemy.com/course/react_stepup/learn/lecture/24823314#content)
 - [Athletic Programming](https://github.com/iorn121/AtCoder)
-- Scala(N education)
+- JDLA Deep Learning For GENERAL
 - [AzureKinect](https://github.com/iorn121/AzureKinectPython)
 - [PythonLibraryTest](https://github.com/iorn121/PythonLibTest)
 
