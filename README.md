@@ -19,7 +19,6 @@
 - C#
 - Rust
 - C++
-- Scala
 
 **Currently under development**
 - [GreenThumb](https://github.com/iorn121/GreenThumb), Self-improvement web application frontend by React
@@ -28,7 +27,6 @@
 - [MyDeZero](https://github.com/iorn121/MyDeZero), Deep Learning Framework by Python
 - "Jellyfish burst World", VRC world full with jellyfish by Unity
 - "Renga", Web application to compose Tanka poems together by communicating with others via Websocket by Rust
-- Web application to show what day it is by "Jellybean" and React, TypeScript
 - Photogrammetry software by AzureKinect and Python
 - Web application to quantify the beauty of a photograph
 
