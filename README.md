@@ -66,7 +66,7 @@
 
 # Stats
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iorn121&layout=compact&show_icons=true&theme=vue" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iorn121&layout=compact&show_icons=true&theme=vue&hide=jupyter%20notebook,Makefile" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=iorn121&theme=vue&show_icons=ture" />
 </p>
 
