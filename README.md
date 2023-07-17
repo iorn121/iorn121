@@ -19,6 +19,8 @@
 - C#
 - Rust
 - C++
+- Go
+- Ruby
 
 **Currently under development**
 - [GreenThumb](https://github.com/iorn121/GreenThumb), Self-improvement web application frontend by React
