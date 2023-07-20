@@ -23,7 +23,6 @@
 - Ruby
 
 **Currently under development**
-- [GreenThumb](https://github.com/iorn121/GreenThumb), Self-improvement web application frontend by React
 - [GreenThumbAPI](https://github.com/iorn121/GreenThumbAPI), backend by Rust
 - [Jellybean](https://github.com/iorn121/jellybeans), Original web application framework by Python
 - [MyDeZero](https://github.com/iorn121/MyDeZero), Deep Learning Framework by Python
