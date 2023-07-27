@@ -23,7 +23,6 @@
 - Ruby
 
 **Currently under development**
-- [Jellybean](https://github.com/iorn121/jellybeans), Original web application framework by Python
 - [MyDeZero](https://github.com/iorn121/MyDeZero), Deep Learning Framework by Python
 - "Jellyfish burst World", VRC world full with jellyfish by Unity
 - "Renga", Web application to compose Tanka poems together by communicating with others via Websocket by Rust
