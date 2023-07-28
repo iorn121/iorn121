@@ -23,7 +23,6 @@
 - Ruby
 
 **Currently under development**
-- [MyDeZero](https://github.com/iorn121/MyDeZero), Deep Learning Framework by Python
 - "Jellyfish burst World", VRC world full with jellyfish by Unity
 - "Renga", Web application to compose Tanka poems together by communicating with others via Websocket by Rust
 - Photogrammetry software by AzureKinect and Python
