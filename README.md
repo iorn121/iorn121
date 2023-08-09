@@ -28,8 +28,7 @@
 - Photogrammetry software by AzureKinect and Python
 - Web application to quantify the beauty of a photograph
 
-**What I'm studying now**
-- GNN(JupiterNotebook)
+**What I'm studying**
 - [Vulkan](https://github.com/iorn121/VulkanTutorial)
 - [Image Processing](https://github.com/iorn121/ImageProcessing100Questions)
 - [React Tuorial](https://www.udemy.com/course/react_stepup/learn/lecture/24823314#content)
