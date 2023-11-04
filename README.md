@@ -10,7 +10,7 @@
 - 360-degree camera development
 - Image Processing
 - VR Development
-- Programming Coaching(Now)
+- Programming Instructor(Now)
 
 **Language:**
 - Python
@@ -24,7 +24,7 @@
 
 **Currently under development**
 - "Jellyfish burst World", VRC world full with jellyfish by Unity
-- command line tool by Go
+- ”Bolinopsis Mikado”, Command line tool to convert images to ASCII art by Go
 - "Renga", Web application to compose Tanka poems together by communicating with others via Websocket by Rust
 - Photogrammetry software by AzureKinect and Python
 - Web application to quantify the beauty of a photograph
