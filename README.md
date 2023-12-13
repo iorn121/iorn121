@@ -30,9 +30,9 @@
 
 **Currently under development**
 
-- "Renga", Web application to compose Tanka poems together by communicating with others via Websocket by Rust
+- [Renga](https://github.com/iorn121/renga), Web application to compose Tanka poems together by communicating with others via Websocket by Golang
 - Photogrammetry software by AzureKinect and Python
-- Web application to quantify the beauty of a photograph
+- atmaCup#16
 
 **What I'm studying**
 
