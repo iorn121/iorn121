@@ -67,17 +67,27 @@
   - It implements task prioritization and user authentication.
 
 - [Chord Progression Web Application](https://iorn121.github.io/ChordProgressor/)
+
   - [Frontend Repository](https://github.com/iorn121/ChordProgressor)
   - [Backend Repository](https://github.com/iorn121/ChordProgressor-API)
   - I developed them to practice RESTful API by Django and React.
   - This helps to check the chord progression when composing.
+
 - [Weather and discomfort index Web Application](https://symphonious-hotteok-b485d8.netlify.app/)
+
   - [Repository](https://github.com/iorn121/weather-app)
   - Through the development of this application, I became familiar with TypeScript.
+
 - [Reverce Polish Notation CLI](https://github.com/iorn121/rust_RPN_cli)
+
   - This helps you calculate by Reverce Polish Notation.
+
 - [Bolinopsis Mikado](https://github.com/iorn121/BolinopsisMikado)
-  - Command line tool to convert images to ASCII art by Go
+
+  - This command line tool developed in Go to convert images into ASCII art.
+
+- [MyDailyRecord](https://github.com/iorn121/MyDailyRecord)
+  - This application running on Lambda can collect body-related data obtained from the Fitbit API and record it in kintone.
 
 # Stats
 
