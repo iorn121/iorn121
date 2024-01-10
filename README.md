@@ -36,7 +36,12 @@
 - Secretary Alexa
 - Color de Go!
 - competition walk
-- warikan ()
+- warikan (improvement)
+- portfolio (improvement)
+- Chord Progressor (improvement)
+- Hamory
+- [build my own x](https://github.com/codecrafters-io/build-your-own-x)
+- 
 
 **What I'm studying**
 
