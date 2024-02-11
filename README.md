@@ -10,7 +10,7 @@
 - 360-degree camera development
 - Image Processing
 - VR Development
-- Programming Instructor(Now)
+- Programming Instructor
 
 **Language:**
 
