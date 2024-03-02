@@ -16,11 +16,11 @@
 
 **Language:**
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,cs,rust,c,cpp,go,ruby,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,cs,rust,c,cpp,go,ruby,kotlin,dart)](https://skillicons.dev)
 
 **Library**
 
-[![My skills](https://skillicons.dev/icons?i=nodejs,react,django,flask,nextjs,pytorch,actix,rails)](https://skillicons.dev)
+[![My skills](https://skillicons.dev/icons?i=nodejs,react,django,flask,nextjs,pytorch,actix,rails,flutter)](https://skillicons.dev)
 
 **Tools**
 
