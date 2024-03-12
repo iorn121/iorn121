@@ -16,7 +16,7 @@
 
 **Language:**
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,cs,rust,c,cpp,go,ruby,kotlin,dart,bash,nim,swift)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,cs,rust,c,cpp,go,ruby,kotlin,dart,bash,nim,swift,java)](https://skillicons.dev)
 
 **Library**
 
