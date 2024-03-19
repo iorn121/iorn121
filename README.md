@@ -20,7 +20,7 @@
 
 **Library**
 
-[![My skills](https://skillicons.dev/icons?i=nodejs,react,django,flask,nextjs,pytorch,actix,rails,flutter)](https://skillicons.dev)
+[![My skills](https://skillicons.dev/icons?i=nodejs,react,django,flask,nextjs,pytorch,actix,rails,flutter,opencv)](https://skillicons.dev)
 
 **Tools**
 
