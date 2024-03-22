@@ -28,7 +28,7 @@
 
 **Others**
 
-[![My skills](https://skillicons.dev/icons?i=linux,bash,unity,vscode,wasm,mysql,postgresql,sqlite,tailwind,bootstrap,blender,git,github,docker,arduino,aws,figma)](https://skillicons.dev)
+[![My skills](https://skillicons.dev/icons?i=linux,bash,unity,vscode,wasm,mysql,postgresql,sqlite,tailwind,bootstrap,blender,git,github,docker,arduino,aws,figma,grpc)](https://skillicons.dev)
 
 **Currently under development**
 
